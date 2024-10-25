@@ -3,7 +3,7 @@
 ## Description 📄
 This lab introduces you to how developers use git in their normal workflows.
 
----
+---JEONG
 
 ## Developer Objectives 📋
 1. **Boilerplate Generation:** Use shortcuts to generate HTML boilerplate.
